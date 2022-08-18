@@ -1,0 +1,27 @@
+﻿@model Rento.Models.CarType
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="card">
+    
+    <div class="card-header">
+        <h1 class="text-center"> CarType Details</h1>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-6">
+                <p style="font-size:2rem;font-family:900">CarType Name : @Html.DisplayFor(model => model.Name)</p>
+            </div>
+            <div class="col-6">
+                <img src="~/Images/@Model.ImageUrl" style="width:220px;height:180px;" />
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a> |
+        <a asp-action="Index" class="btn btn-outline-info">Back to List</a>
+    </div>
+</div>

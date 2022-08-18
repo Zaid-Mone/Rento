@@ -1,0 +1,9 @@
+﻿@using Rento.Utility;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@if (User.IsInRole(WebRole.AdminRole))
+{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
