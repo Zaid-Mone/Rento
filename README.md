@@ -1,5 +1,5 @@
 # Rento
-# Car Rent website using ASP.NET 5 
+# Car Rent website using ASP.NET CORE 5 
 # note: take care that the packages that used version 5.0.17 may have issue if you use VS 2020. update the packages then run the code ..
 
 # Home Page 
