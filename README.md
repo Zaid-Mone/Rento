@@ -16,11 +16,11 @@ Car Rent website using ASP.NET 5
 # Car Details
 ![screencapture-localhost-44341-Customer-Home-Details-2ad95ec2-2120-472c-a2e3-238361ad33df-2022-09-06-22_58_56](https://user-images.githubusercontent.com/91063961/188727590-a5ba29d2-6980-468a-9fed-2de3b4f630db.png)
 
-# Admin Dashboard Page 
-![image](https://user-images.githubusercontent.com/91063961/188725195-399b6d19-6186-4337-a34e-9ff9732d5bad.png)
+# Admin Page 
+![screencapture-localhost-44341-Admin-AdminHome-2022-09-06-23_01_58](https://user-images.githubusercontent.com/91063961/188727932-2cdb076c-86d0-4797-8793-e3f89a2e2263.png)
 
-# Admin  Page 
-![image](https://user-images.githubusercontent.com/91063961/188725139-fea14538-3a1d-450b-aebd-96a37d50b62d.png)
+# Admin Dashboard Page 
+![screencapture-localhost-44341-2022-09-06-23_03_11](https://user-images.githubusercontent.com/91063961/188727985-0cfd38a4-c293-4930-9bae-3cca66a08338.png)
 
 # Admin  create user or admin accounts 
 ![screencapture-localhost-44341-Identity-Account-Register-2022-09-06-22_47_39](https://user-images.githubusercontent.com/91063961/188725441-9cac2ee0-c508-4906-bf39-c825d1610694.png)
