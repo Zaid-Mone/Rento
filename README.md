@@ -14,7 +14,7 @@ Car Rent website using ASP.NET 5
 ![screencapture-localhost-44341-Customer-Home-Cars-db88c647-a842-47e2-aa64-dc71978634a1-2022-09-06-22_43_27](https://user-images.githubusercontent.com/91063961/188724732-4e0ac545-ea4f-4dec-8274-b14e7b9881fe.png)
 
 # Car Details
-![screencapture-localhost-44341-Customer-Home-Cars-db88c647-a842-47e2-aa64-dc71978634a1-2022-09-06-22_43_27](https://user-images.githubusercontent.com/91063961/188724916-f237276e-72c3-476b-91a4-00ac099fed3e.png)
+![screencapture-localhost-44341-Customer-Home-Details-2ad95ec2-2120-472c-a2e3-238361ad33df-2022-09-06-22_58_56](https://user-images.githubusercontent.com/91063961/188727590-a5ba29d2-6980-468a-9fed-2de3b4f630db.png)
 
 # Admin Dashboard Page 
 ![image](https://user-images.githubusercontent.com/91063961/188725195-399b6d19-6186-4337-a34e-9ff9732d5bad.png)
