@@ -1,5 +1,6 @@
 # Rento
-Car Rent website using ASP.NET 5 
+# Car Rent website using ASP.NET 5 
+# note: take care that the packages that used version 5.0.17 may have issue if you use VS 2020. update the packages then run the code ..
 
 # Home Page 
 ![screencapture-localhost-44341-2022-09-06-22_39_42](https://user-images.githubusercontent.com/91063961/188724044-339c36e0-0a45-4784-9039-f06f8d46a9a6.png)
@@ -57,3 +58,6 @@ Car Rent website using ASP.NET 5
 # Admin Cars Delete page
 ![screencapture-localhost-44341-Admin-Car-Delete-acb23e06-a19a-4f30-b44f-69737feecba0-2022-09-06-22_57_06](https://user-images.githubusercontent.com/91063961/188727040-b09bb74b-b172-4774-83e8-2d555e10da3f.png)
 
+
+
+# Welcome .......
